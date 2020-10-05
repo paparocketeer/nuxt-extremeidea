@@ -76,7 +76,8 @@ module.exports = {
   ** Axios module configuration
   ** See https://axios.nuxtjs.org/options
   */
-  axios: {
+ axios: {
+  baseURL: development ? 'http://localhost:3000' : 'https://mevn-blog.herokuapp.com/'
   },
   /*
   ** Build configuration
