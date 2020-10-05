@@ -1,3 +1,6 @@
+ExtremeIdea test app
+
+[Demo](https://nuxt-eidea.herokuapp.com/)
 
 ## Build Setup
 
